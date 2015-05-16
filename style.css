@@ -1,9 +1,16 @@
+.originalState {
+	background-color: green;
+	border: 1px solid black;
+	width: 25%;
+	float: left; 
+	padding-bottom: 25%; 
+},
+
 .laura {
+	background-color: yellow; 
 	background-image: url("https://farm9.staticflickr.com/8608/16237423798_dc48d24514_b.jpg");
-	background-size: 100% 100%;
+	background-size: 95% 95%;
   background-repeat: no-repeat; 
+
 }
 
-/*.originalState {
-	background-color: "green";
-}*/
